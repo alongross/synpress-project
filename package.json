@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@synthetixio/synpress": "^4.0.3",
+    "cypress": "^13.16.1"
+  }
+}
